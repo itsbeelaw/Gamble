@@ -66,7 +66,7 @@ const getBet = (balance, lines) => {
         } 
         
         else {
-            console.log("Alright, let's spin!")
+            console.log("Alright, let's spin!!")
             return numberBet;
         }
     }
